@@ -50,6 +50,11 @@ and students who read many books and their class and department.
 ## Features of Application
 ![Features-of-a-Library-Management-Software](https://user-images.githubusercontent.com/50759844/168143969-5d834009-abca-465b-a2ae-d9e74b0b1ca5.png)
 
+## Use Case 2
+![Use-case-diagram-of-the-simplified-library-management-system](https://user-images.githubusercontent.com/50759844/168393741-1749fac4-984d-4f90-9db4-1713fe6a3bd7.png)
+
+## Entity Relationship Diagram
+![ER1](https://user-images.githubusercontent.com/50759844/168393817-b9ab6bbc-92f0-4762-9e4f-aa27b8f926a6.png)
 
 Libraries offer a wealth of knowledge, resources, space and environment to discover the world of books and enjoy studying or just reading for
 pleasure. Therefore, It's vital to have a good management system for libraries in behalf of many people including students and librarians.
